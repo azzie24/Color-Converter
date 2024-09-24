@@ -1,0 +1,44 @@
+/* Basic styling for the app container */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  /* background-color: ; */
+}
+
+h1 {
+  font-size: 2rem;
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+div {
+  text-align: center;
+}
+
+p {
+  font-size: 1.2rem;
+  margin: 10px 0;
+  color: #444;
+}
+
+/* Styling the picker container */
+.color-picker {
+  margin: 0 auto;
+  display: inline-block;
+}
+
+/* Basic button style */
+button {
+  /* background-color: #4caf50; */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+

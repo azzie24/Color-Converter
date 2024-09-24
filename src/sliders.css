@@ -1,0 +1,60 @@
+/* Base slider styles */
+.slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 10px;
+  outline: none;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+/* RGB Sliders */
+.slider-r{
+
+  background: url('C:\Users\alesy\Desktop\фпм\2 курс\ПКГ\lab-1\assets\images\R slider.png') no-repeat center;
+
+}
+.slider-g{
+
+  background: url('C:\Users\alesy\Desktop\фпм\2 курс\ПКГ\lab-1\assets\images\G slider.png') no-repeat center;
+
+}
+.slider-b{
+
+  background: url('C:\Users\alesy\Desktop\фпм\2 курс\ПКГ\lab-1\assets\images\B slider.png') no-repeat center;
+
+}
+.slider-c{
+
+  background: url('C:\Users\alesy\Desktop\фпм\2 курс\ПКГ\lab-1\assets\images\C slider.png') no-repeat center;
+
+}
+.slider-m{
+
+  background: url('C:\Users\alesy\Desktop\фпм\2 курс\ПКГ\lab-1\assets\images\M slider.png') no-repeat center;
+
+}
+.slider-y{
+
+  background: url('C:\Users\alesy\Desktop\фпм\2 курс\ПКГ\lab-1\assets\images\Y slider.png') no-repeat center;
+
+}
+.slider-k{
+
+  background: url('C:\Users\alesy\Desktop\фпм\2 курс\ПКГ\lab-1\assets\images\K slider.png') no-repeat center;
+
+}
+.slider-h{
+
+  background: url('C:\Users\alesy\Desktop\фпм\2 курс\ПКГ\lab-1\assets\images\H slider.png') no-repeat center;
+
+}.slider-s{
+
+  background: url('C:\Users\alesy\Desktop\фпм\2 курс\ПКГ\lab-1\assets\images\S slider.png') no-repeat center;
+
+}.slider-v{
+
+  background: url('C:\Users\alesy\Desktop\фпм\2 курс\ПКГ\lab-1\assets\images\V slider.png') no-repeat center;
+
+}
